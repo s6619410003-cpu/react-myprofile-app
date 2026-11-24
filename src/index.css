@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* พื้นหลังหลักของทั้งเว็บ */
+body {
+  margin: 0;
+  background: #000;
+  color: #fff;
+}
